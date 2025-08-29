@@ -1,4 +1,4 @@
-# Site acessível sobre Charlie Brown Jr.
+# Site acessível sobre o Celtics
 ## Sobre
 Refatoração de um site implementando recursos de acessibilidade no HTML, CSS e JS.
 ## Recursos de acessibilidade
